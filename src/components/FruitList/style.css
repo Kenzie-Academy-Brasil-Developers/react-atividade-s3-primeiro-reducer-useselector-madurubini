@@ -1,0 +1,28 @@
+.Card {
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #dce1e9;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.Fruit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  width: 30%;
+}
+
+.Fruit p {
+  margin: 1px;
+}
+
+.Fruit img {
+  width: 50%;
+  border-radius: 100%;
+  border: 3px solid #d4afb9;
+}
